@@ -1,13 +1,14 @@
-Arsham Mehrani
+# Arsham Mehrani
 #### Software Engineer Intern
 ---
-4th year Computer Science major at California Polytechnic State University, Pomona (CPP). 
+I'm a 4th year Computer Science major at California Polytechnic State University, Pomona (CPP). Currently working on school projects + my own senior project. 
+My senior project is in the area of AI and Robotics.
+
+I always like to take the time and automate some repeated tasks or program anything that makes my life just a bit easier! 
+For example: I made a system that recorded my hours worked, made a spread sheet every two weeks to send to my employer.
 
 ---
 Skills: 🐍 Python / ☕ Java / 🕸 HTML,CSS,JavaScript
-
-- 🔭 I’m currently working on AI & Research  
-- 👯 I’m looking to collaborate on big projects in areas of AI & Machine Learning 
 
 ---
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Arsham1024)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/arsham-mehrani//)  
