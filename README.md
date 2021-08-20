@@ -1,7 +1,7 @@
 Arsham Mehrani
 #### Software Engineer Intern
 
-4th year computer science major at California Polytechnic University, Pomona (CPP). 
+4th year computer science major at California Polytechnic State University, Pomona (CPP). 
 
 Skills: Python / Java / HTML,CSS,JavaScript
 
