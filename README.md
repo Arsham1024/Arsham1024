@@ -1,4 +1,4 @@
-### Hi there 👋, Arsham Mehrani
+Arsham Mehrani
 #### Software Engineer Intern
 ![Software Engineer Intern](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
