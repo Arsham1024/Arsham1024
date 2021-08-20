@@ -1,6 +1,6 @@
 Arsham Mehrani
 #### Software Engineer Intern
-![Software Engineer Intern](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Software Engineer Intern]
 
 4th year computer science major at California Polytechnic University, Pomona (CPP). 
 
