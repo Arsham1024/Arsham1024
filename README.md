@@ -3,12 +3,13 @@ Arsham Mehrani
 ---
 4th year Computer Science major at California Polytechnic State University, Pomona (CPP). 
 
+---
 Skills: 🐍 Python / ☕ Java / 🕸 HTML,CSS,JavaScript
 
 - 🔭 I’m currently working on AI & Research  
 - 👯 I’m looking to collaborate on big projects in areas of AI & Machine Learning 
 
-
+---
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Arsham1024)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/arsham-mehrani//)  
 
 
