@@ -4,7 +4,7 @@
 I'm a 4th year Computer Science major at California Polytechnic State University, Pomona (CPP). Currently working on school projects + my own senior project. 
 My senior project is in the area of AI and Robotics.
 
-I always like to take the time and automate some repeated tasks or program anything that makes my life just a bit easier! 
+my hobbies include automating redundant tasks to makes my life just a bit easier! 
 For example: I made a system that recorded my hours worked, made a spread sheet every two weeks to send to my employer.
 
 ---
