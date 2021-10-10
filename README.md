@@ -1,5 +1,5 @@
 # Arsham Mehrani
-#### Software Engineer Intern
+#### Machine Learning and Cybersecurity Researcher
 ---
 I'm a 4th year Computer Science major at California Polytechnic State University, Pomona (CPP). Currently working on school projects + my own senior project. 
 My senior project is in the area of AI and Robotics.
