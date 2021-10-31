@@ -1,11 +1,11 @@
 # Arsham Mehrani
 #### Machine Learning and Cybersecurity Researcher
 ---
-I'm a 4th year Computer Science major at California Polytechnic State University, Pomona (CPP). Currently working on school projects + my own senior project. 
-My senior project is in the area of AI and Robotics.
+I'm a 4th year Computer Science major at California Polytechnic State University, Pomona (CPP). Currently working as a researcher at CALSys Labs. My work focuses on building a cyberinfrastructure that scrapes malicious hacker data from the deepweb and the darkweb for the production of cyber-threat intelligence models. 
 
-my hobbies include automating redundant tasks to makes my life just a bit easier! 
-For example: I made a system that recorded my hours worked, made a spread sheet every two weeks to send to my employer.
+in addition I am currently researching Neural Networks and Deep Learning concepts.
+
+my hobbies include programming smart home devices and building my home server.
 
 ---
 Skills: Python / Java / HTML,CSS,JavaScript
