@@ -1,11 +1,7 @@
 # Arsham Mehrani
 #### Machine Learning and Cybersecurity Researcher
 ---
-I'm a 4th year Computer Science major at California Polytechnic State University, Pomona (CPP). Currently working as a researcher at <a href='https://www.cpp.edu/faculty/santanamarin/projects.shtml' target="_blank">CALSys Labs</a> under supervision of Dr.Ericsson Marin. My work focuses on building a cyberinfrastructure that scrapes malicious hacker data from the deepweb and the darkweb for the production of cyber-threat intelligence models. 
-
-in addition I am currently researching Neural Networks and Deep Learning concepts.
-
-my hobbies include programming smart home devices and building my home server.
+I'm a 4th year Computer Science major at California Polytechnic State University, Pomona (CPP). Currently working as a researcher at <a href='https://www.cpp.edu/faculty/santanamarin/projects.shtml' target="_blank">CALSys Labs</a> under supervision of Dr.Ericsson Marin. My work focuses on building a cyberinfrastructure that scrapes malicious hacker data from the deepweb and the darkweb for the production of cyber-threat intelligence models. I also build ML models to predict software vulnerabilities. Currently I am working on devloping Neural Networks model and optimize it by fine-tuning the architecture. 
 
 ---
 Skills: Python / Java / HTML,CSS,JavaScript
