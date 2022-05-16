@@ -8,6 +8,9 @@ Currently working as a researcher at <a href='https://www.cpp.edu/faculty/santan
 Currently, I am excited to be working on a paper to publish soon on my research.
 
 ---
+Check out the hide-and-seek for my latest work using Reinforcement Learning.
+
+---
 Skills: Python / Java / HTML,CSS,JavaScript
 
 ---
