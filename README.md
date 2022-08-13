@@ -15,7 +15,8 @@ AND check out the webservice my team and I built for cal poly pomona called <a h
 
 ---
 ## skills
-Python / Java / HTML,CSS,JavaScript
+Python / Java / C#
+HTML,CSS,JavaScript
 
 ---
 ## Contacts
