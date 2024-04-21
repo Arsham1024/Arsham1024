@@ -1,6 +1,7 @@
 # Hello, I'm Arsham
 
-I am a Software Engineer at Homes.com, part of the CoStar Group, based in California. I thrive on the creativity and problem-solving opportunities that software development provides.
+I am a Software Engineer at Homes.com, part of the CoStar Group. 
+I thrive on the creativity and problem-solving opportunities that software development provides.
 
 ## About Me
 **Technical Skills:**
