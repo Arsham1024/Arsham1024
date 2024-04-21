@@ -11,6 +11,3 @@ I am a Software Engineer at Homes.com, part of the CoStar Group, based in Califo
 ## Connect with Me
 - **Email:** mehraniarsham@gmail.com
 - **LinkedIn:** [Visit my LinkedIn](https://www.linkedin.com/in/arsham-mehrani/)
-
-## My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
