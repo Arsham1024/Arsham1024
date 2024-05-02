@@ -1,6 +1,6 @@
 # Hello, I'm Arsham
 
-I am a Software Engineer at Homes.com, part of the CoStar Group. 
+I am a Software Engineer at Homes.com, part of the CoStar Group.\
 Most likely to spend 4 hours coding a script to optimize a 30 seconds task.
 
 
