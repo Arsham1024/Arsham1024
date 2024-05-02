@@ -1,7 +1,8 @@
 # Hello, I'm Arsham
 
 I am a Software Engineer at Homes.com, part of the CoStar Group. 
-I thrive on the creativity and problem-solving opportunities that software development provides.
+Most likely to spend 4 hours coding a script to optimize a 30 seconds task.
+
 
 ## About Me
 **Technical Skills:**
