@@ -6,7 +6,7 @@ Most likely to spend 4 hours writing a script to optimize a 30 seconds task.
 
 ## About Me
 **Technical Skills:**
-- **Languages:** TypeScript (& JS), C#, Python
+- **Languages:** TypeScript, C#, Python
 - **Frameworks:** Vue, React, Svelte
 - **Databases:** SQL
 
