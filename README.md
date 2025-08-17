@@ -5,7 +5,7 @@ I am a Software Engineer at Homes.com, part of the CoStar Group.\
 
 ## About Me
 **Technical Skills:**
-- **Languages:** C++, JavaScript, TypeScript, Python, Go, C#
+- **Languages:** C#, C++, JavaScript, TypeScript, Python, Go
 - **Frameworks:** Vue, Nuxt, React, Svelte
 - **Databases:** SQL
 - **Cloud:** AWS
