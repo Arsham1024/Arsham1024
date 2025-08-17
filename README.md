@@ -6,9 +6,10 @@ Most likely to spend 4 hours writing a script to optimize a 30 seconds task.
 
 ## About Me
 **Technical Skills:**
-- **Languages:** JavaScript, TypeScript, Python, Go, C#
+- **Languages:** C++, JavaScript, TypeScript, Python, Go, C#
 - **Frameworks:** Vue, Nuxt, React, Svelte
 - **Databases:** SQL
+- **Cloud:** AWS
 
 ## Connect with Me
 - **Website:** [Spectre Creation](https://www.spectrecreation.com)
