@@ -4,10 +4,10 @@ Software engineer at Homes.com (CoStar Group) in Irvine, California. On my own t
 
 ## What I ship
 
-- **[Arrow](https://spectrecreation.com/arrow)** — computer vision archery scoring on iPhone, [live on the App Store](https://apps.apple.com/us/app/arrow-archery-training/id6790176541). It finds every arrow in a target and scores it by competition rules, with all inference on the device through Core ML. The data loop: real footage, automated labels with SAM 3, YOLO26 training, a versioned release for each model. The public [Arrowv2](https://github.com/Arsham1024/Arrowv2) repo holds the earlier Python and YOLO version.
+- **[Arrow](https://spectrecreation.com/arrow)** — computer vision archery scoring on iPhone, [live on the App Store](https://apps.apple.com/us/app/arrow-archery-training/id6790176541). It finds every arrow in a target and scores it by competition rules, with all inference on the device through Core ML. The data loop: real footage, automated labels with SAM 3, YOLO26 training, a versioned release for each model.
+- **[Hide & Seek](https://spectrecreation.com/blog/hide-and-seek)** — Deep Q-Learning hider and seeker agents in Python and TensorFlow, with a LIDAR-style ray caster so the agents explore with limited vision and no map.
 - **[Airo](https://spectrecreation.com/airo/)** — a real-time wind tunnel simulation in the browser: a lattice Boltzmann solver on the GPU with WebGPU, rendered with Three.js from the same GPU device.
 - **[Apadana](https://spectrecreation.com/apadana/)** — learn Old Persian cuneiform on a 3D Cyrus Cylinder you can read, built with Nuxt and Three.js.
-- **[Hide & Seek](https://github.com/Arsham1024/hide-and-seek)** — Deep Q-Learning hider and seeker agents in Python and TensorFlow, with a LIDAR-style ray caster so the agents explore with limited vision and no map.
 
 ## Stack
 
