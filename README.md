@@ -12,7 +12,7 @@ Software engineer at Homes.com (CoStar Group) in Irvine, California. On my own t
 ## Stack
 
 - **Languages:** TypeScript, Python, Swift, C#, SQL, C++
-- **ML and vision:** Deep Learning, Reinforcement Learning, YOLO26, SAM 3, TensorFlow, Core ML
+- **ML and vision:** Deep Learning, Reinforcement Learning, Computer Vision, YOLO (Ultralytics), Segment Anything (Meta), Core ML, TensorFlow
 - **Web and graphics:** Vue, Nuxt, Node.js, .NET, WebGPU, Three.js, D3.js
 - **Data and cloud:** PostgreSQL, Supabase, Redis, AWS, Docker, GitHub Actions
 
